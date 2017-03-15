@@ -1,0 +1,19 @@
+NET "A<0>" LOC = "H18";
+NET "A<1>" LOC = "N17";
+NET "B<0>" LOC = "L13";
+NET "B<1>" LOC = "L14";
+NET "Cin" LOC = "V4";
+NET "Cout" LOC = "E11";
+NET "S<1>" LOC = "E12";
+NET "S<0>" LOC = "F12";
+NET "CLK" LOC = "C9";
+
+# LCD Stuff ouo 
+NET "SF_D<8>" LOC = "R15";
+NET "SF_D<9>" LOC = "R16";
+NET "SF_D<10>" LOC = "P17";
+NET "SF_D<11>" LOC = "M15";
+NET "LCD_E" LOC = "M18";
+NET "LCD_RS" LOC = "L18";
+NET "LCD_RW" LOC = "L17";
+NET "LCD_Enable" LOC = "D16";
